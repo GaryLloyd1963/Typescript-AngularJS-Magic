@@ -11,7 +11,7 @@ node "c:\Program files (x86)\Microsoft SDKs\Typescript\1.7\tsc" --watch
 ```
 
 
-4) Run web server by navigating to the main web folder of the project.
+###4) Run web server by navigating to the main web folder of the project.
 ```
 cd src\web
 http-server
