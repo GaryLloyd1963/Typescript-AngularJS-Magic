@@ -1,0 +1,23 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "sourceMap": true,
+    "removeComments": true,
+    "rootDir": ".",
+    "outDir": "."
+  },
+  "filesGlob": [
+    "./src/Web/app/**/*.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": true
+  },
+  "files": [
+    "./src/Web/app/_module/_module.ts",
+    "./src/Web/app/_module/registry.ts",
+    "./src/Web/app/classes/greeting.ts",
+    "./src/Web/app/controllers/magic-controller.ts",
+    "./src/Web/app/services/get-message-service.ts"
+  ]
+}
